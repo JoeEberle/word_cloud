@@ -6,7 +6,7 @@
 
 Welcome to the ** Word Cloud ** repository! This project demonstrates how to generate word clouds  EASILY  !!!   
 
-![Code Logo](wordcloud_output.png)
+![Code Logo](code.png)
 
 ## NOTE - THIS REPOSITORY WORK IN PROGRESS 
 
