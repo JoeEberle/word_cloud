@@ -22,6 +22,7 @@ The are many ways to do this. It isnt perfect !!! so Experiment. Branch it and C
 - Easily Configurable 
 - Makes your work open source 
 - Invites Collaboration
+- creative and Fun !!
 
 
 ## Notebook Features
