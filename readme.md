@@ -1,16 +1,16 @@
-# Word Cloud  - Quickly generate fun and USEFUL word clouds - Its EASY !!!   
+# Data Disovery  - Find all your latest DATA - Its EASY !!!   
 
 ![Code Logo](developer.png)
 
 ## Description
 
-Welcome to the ** Word Cloud ** repository! This project demonstrates how to generate word clouds  EASILY  !!!   
+Welcome to the ** Data Disovery ** repository! This project demonstrates how find and register all your valuable date - EASILY  !!!   
 
 ![Code Logo](code.png)
 
 ## NOTE - THIS REPOSITORY WORK IN PROGRESS 
 
-Words clouds are important data science - The use NLP to determine term frequency. 
+Data Disovery is an important data science - It is important to find your latest and most up to data data files 
 
 The are many ways to do this. It isnt perfect !!! so Experiment. Branch it and Change it. Collaborate and HAVE FUN !!! 
 
@@ -38,7 +38,7 @@ The are many ways to do this. It isnt perfect !!! so Experiment. Branch it and C
 
 ## Getting Started
 
-To get started with the ** Word Cloud ** project, follow these steps:
+To get started with the **  Data Disovery ** project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
