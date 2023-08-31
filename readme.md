@@ -1,12 +1,12 @@
 # Word Cloud  - Quickly generate fun and USEFUL word clouds - Its EASY !!!   
 
-![Code Logo](\word_cloud\developer.png)
+![Code Logo](c:\users\josep\word_cloud\developer.png)
 
 ## Description
 
 Welcome to the ** Word Cloud ** repository! This project demonstrates how to generate word clouds  EASILY  !!!   
 
-![Code Logo](\word_cloud\code.png)
+![Code Logo](c:\users\josep\word_cloud\code.png)
 
 ## NOTE - THIS REPOSITORY WORK IN PROGRESS 
 
@@ -14,7 +14,7 @@ Words clouds are important data science - The use NLP to determine term frequenc
 
 The are many ways to do this. It isnt perfect !!! so Experiment. Branch it and Change it. Collaborate and HAVE FUN !!! 
 
-![Code Logo](\word_cloud\sample.png)
+![Code Logo](c:\users\josep\word_cloud\sample.png)
 
 ## Features
 
