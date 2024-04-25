@@ -1,0 +1,42 @@
+
+# Word Cloud - Produces a wordcloud using the3 most relevant terminology using whatever cloud shape is supplied. 
+Produces a wordcloud using the3 most relevant terminology using whatever cloud shape is supplied. 
+
+![Image image_filename](code.png)
+
+**Word Cloud** A word cloud visually represents text data, with each word's size reflecting its frequency or importance in the corpus. It illuminates prominent and recurring terms, offering a snapshot of common words in a dataset. Word clouds assist in text analysis, sentiment analysis, and summarization, enabling data scientists to discern key themes and trends in large volumes of text data efficiently. 
+
+**Word clouds** are commonly used by analysts, researchers, and marketers to quickly visualize and identify prevalent themes or keywords within large textual datasets, aiding in data interpretation and decision-making processes. They offer a concise and visually engaging summary of text content, making it easier for users to grasp the most significant aspects of the data at a glance.
+
+
+![Image image_filename](sample.png)
+
+## Features
+- Easy to understand and use  
+- Easily Configurable 
+- Quickly start your project with pre-built templates
+- Its Fast and Automated
+
+## Notebook Features
+- **Self Documenting** - Automatically identifes major steps in notebook 
+- **Self Testing** - Unit Testing for each ptyhon function
+- **Easily Configurable** -easily modifyable with config.INI name value pairs
+- **Includes Talking Code** - The code explains itself.
+- **Self Logging** - enhanced python standard logging   
+- **Self Debugging** - enhanced python standard debugging
+- **Low Code - or - No Code** - Most solutions are under 50 lines of code
+- **Educational** - Includes educational dialogue and background material
+    
+## Getting Started
+To get started with the **Word Cloud** solution repository, follow these steps:
+1. Clone the repository to your local machine.
+2. Install the required dependencies listed at the top of the notebook.
+3. Explore the example code provided in the repository and experiment.
+4. Run the notebook and make it your own - **EASY !**
+    
+## https://github.com/JoeEberle/ -- josepheberle@outlook.com 
+    
+![Developer](developer.png)
+
+![Brand](brand.png)
+    ![additional_image](heart.png)  <br>![additional_image](wordcloud_output.png)  <br>![additional_image](word_cloud_cat_example.png)  <br>![additional_image](word_cloud_tree_example.png)  <br>
