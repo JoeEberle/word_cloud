@@ -19,9 +19,9 @@ Produces a wordcloud using the3 most relevant terminology using whatever cloud s
 
 ## Notebook Features
 - **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each ptyhon function
+- **Self Testing** - Unit Testing for each function
 - **Easily Configurable** -easily modifyable with config.INI name value pairs
-- **Includes Talking Code** - The code explains itself.
+- **Includes Talking Code** - The code explains itself 
 - **Self Logging** - enhanced python standard logging   
 - **Self Debugging** - enhanced python standard debugging
 - **Low Code - or - No Code** - Most solutions are under 50 lines of code
@@ -39,4 +39,4 @@ To get started with the **Word Cloud** solution repository, follow these steps:
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ![additional_image](heart.png)  <br>![additional_image](wordcloud_output.png)  <br>![additional_image](word_cloud_cat_example.png)  <br>![additional_image](word_cloud_tree_example.png)  <br>
+    ## Deliverables or Figures![additional_image](heart.png)  <br>![additional_image](wordcloud_output.png)  <br>![additional_image](word_cloud_cat_example.png)  <br>![additional_image](word_cloud_tree_example.png)  <br>
