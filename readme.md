@@ -47,4 +47,7 @@ To get started with the **Word Cloud** solution repository, follow these steps:
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](heart.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](wordcloud_output.png)  <br>![additional_image](word_cloud_cat_example.png)  <br>![additional_image](word_cloud_tree_example.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](heart.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](wordcloud_output.png)  <br>![additional_image](word_cloud_cat_example.png)  <br>![additional_image](word_cloud_tree_example.png)  <br>
+    
