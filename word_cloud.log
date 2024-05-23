@@ -1,8 +1,0 @@
-2024-04-25 09:05:42,031 - INFO - START word_cloud =============================================
-2024-04-25 09:05:42,031 - INFO - START word_cloud Start Time = 2024-04-25 09:05:42
-2024-04-25 09:05:42,031 - INFO - word_cloud Step 0 - Initialize the configuration file parser
-2024-04-25 09:06:12,444 - INFO - PERFORMANCE word_cloud The total process duration was:30.41
-2024-04-25 09:06:12,444 - INFO - PERFORMANCE word_cloud Stop Time = 2024-04-25 09:06:12
-2024-04-25 09:06:12,444 - INFO - PERFORMANCE word_cloud Low process duration less than 3 minutes:30.41
-2024-04-25 09:06:12,444 - INFO - PERFORMANCE word_cloud Performance optimization is optional
-2024-04-25 09:06:12,444 - INFO - END word_cloud =============================================
