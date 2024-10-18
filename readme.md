@@ -3,7 +3,7 @@
 
 **Word clouds** are commonly used by analysts, researchers, and marketers to quickly visualize and identify prevalent themes or keywords within large textual datasets, aiding in data interpretation and decision-making processes. They offer a concise and visually engaging summary of text content, making it easier for users to grasp the most significant aspects of the data at a glance.
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
