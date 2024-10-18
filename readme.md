@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Word Cloud 
-    ## Produces a word cloud using the3 most relevant terminology using whatever cloud shape is supplied. 
+    
+# Word Cloud 
+
+## Produces a word cloud using the3 most relevant terminology using whatever cloud shape is supplied. 
+
     ![Image image_filename](code.png)
 **Word Cloud** A word cloud visually represents text data, with each word's size reflecting its frequency or importance in the corpus. It illuminates prominent and recurring terms, offering a snapshot of common words in a dataset. Word clouds assist in text analysis, sentiment analysis, and summarization, enabling data scientists to discern key themes and trends in large volumes of text data efficiently. 
 
@@ -26,9 +29,9 @@ To get started with the **Word Cloud** solution repository, follow these steps:
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Word Cloud** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -38,6 +41,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](heart.png)  <br>![additional_image](wordcloud_output.png)  <br>![additional_image](word_cloud_cat_example.png)  <br>![additional_image](word_cloud_tree_example.png)  <br>
