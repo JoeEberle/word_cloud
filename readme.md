@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Word Cloud - Produces a word cloud using the3 most relevant terminology using whatever cloud shape is supplied. ![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Word Cloud 
+    ## Produces a word cloud using the3 most relevant terminology using whatever cloud shape is supplied. 
+    ![Image image_filename](code.png)
 **Word Cloud** A word cloud visually represents text data, with each word's size reflecting its frequency or importance in the corpus. It illuminates prominent and recurring terms, offering a snapshot of common words in a dataset. Word clouds assist in text analysis, sentiment analysis, and summarization, enabling data scientists to discern key themes and trends in large volumes of text data efficiently. 
 
 **Word clouds** are commonly used by analysts, researchers, and marketers to quickly visualize and identify prevalent themes or keywords within large textual datasets, aiding in data interpretation and decision-making processes. They offer a concise and visually engaging summary of text content, making it easier for users to grasp the most significant aspects of the data at a glance.
@@ -13,12 +16,15 @@ To get started with the **Word Cloud** solution repository, follow these steps:
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
